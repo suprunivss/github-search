@@ -1,8 +1,13 @@
+import Container from './components/Container/Container';
+import Input from './components/Input/Input';
+
+import './styles/style.css';
+
 function App() {
   return (
-    <div className="App">
-
-    </div>
+    <Container>
+      <Input/>
+    </Container>
   );
 }
 
