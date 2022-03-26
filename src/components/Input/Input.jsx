@@ -8,7 +8,6 @@ const Input = () => {
 
         </input>
         <button className={styles.button}>
-          <img src="" alt=""/>
           SEARCH
         </button>
       </form>
